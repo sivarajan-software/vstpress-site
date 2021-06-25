@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: Offset & Digital Printing Press
 author: Sivarajan Vedhachalam
 date: 2021-06-25 10:42:00 +0530
