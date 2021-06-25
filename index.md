@@ -10,3 +10,4 @@ image:
 
 This is post content.
 I hope it works
+![My helpful screenshot](/assets/images/products-banner.png)
