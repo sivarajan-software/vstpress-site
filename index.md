@@ -3,6 +3,8 @@ layout: home
 title: Offset & Digital Printing Press
 author: Sivarajan Vedhachalam
 date: 2021-06-25 10:42:00 +0530
+image:
+  src: https://cdn.jsdelivr.net/gh/sivarajan-software/vstpress-site/assets/images/products-banner.webp
 # Index page
 ---
 
