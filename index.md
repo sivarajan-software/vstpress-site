@@ -4,10 +4,9 @@ title: Offset & Digital Printing Press
 author: Sivarajan Vedhachalam
 date: 2021-06-25 10:42:00 +0530
 image:
-  src: https://sivarajan.co.in/vstpress-site/assets/images/products-banner.png
+  src: /assets/images/products-banner.webp
 # Index page
 ---
 
 This is post content.
 I hope it works
-![My helpful screenshot](/assets/images/products-banner.png)
