@@ -4,9 +4,11 @@ title: Offset & Digital Printing Press
 author: Sivarajan Vedhachalam
 date: 2021-06-25 10:42:00 +0530
 image:
-  src: /assets/images/products-banner.webp
-# Index page
+  src: /assets/images/img 2.jpg
 ---
 
-This is post content.
-I hope it works
+## About Us
+---
+VST Associated Graphics Pvt. Ltd. is one of the prominent printing press situated in Chennai. 
+
+This company was founded in the year 1988 by Shri. S.M. Vedhachalam and Smt. V. Shanthi for providing printing and binding services. Over the course of these years, the company has grown in terms of infrastructure, skilled workforce and service capabilities. Currently, we are equipped with mono and multi-colour offset printing and digital printing machines. Along with a host of automated binding & finishing machineries, we are able to craft diverse range of products such as books, folded brochures, paper bags, etc..
