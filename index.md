@@ -16,24 +16,7 @@ This company was founded in the year 1988 by Shri. S.M. Vedhachalam and Smt. V. 
 
 ## Services we offer
 ---
-![Services Offered](/assets/images/services.jpg)
-- Printing
-  - Single-Colour Offset
-  - Multi-Colour Offset
-  - Multi-Colour Digital
-- Finishing
-  - Thermal Lamination
-  - Spot UV, Drip-Off Coating & Foiling
-  - Die Punching & Pasting
-  - Creasing & Micro-Perforation
-- Binding
-  - Folding & Composing
-  - Section Sewing
-  - Center/Side Pinning
-  - Perfect Binding (Softcover/Paperback Binding)
-  - Hard-Case Binding
-  - Wire-o Binding
-  - Calendar Rimming
+![Services Offered](/assets/images/services.jpg){:width="600"}
 
 ## Products we make
 ---
