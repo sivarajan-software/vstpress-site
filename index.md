@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: An Offset & Digital Printing Press in Chennai
 tagline: Print shop for books, brochures and more..
 author: Sivarajan Vedhachalam
