@@ -10,7 +10,8 @@ image:
 ---
 
 # An Offset & Digital Printing Press in Chennai
-Print shop for books, brochures and more..
+> Print shop for books, brochures and more..
+
 ![Banner](/assets/images/img2.jpg)
 
 ## About Us
