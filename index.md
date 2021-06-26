@@ -16,14 +16,46 @@ This company was founded in the year 1988 by Shri. S.M. Vedhachalam and Smt. V. 
 
 ## Services Offered
 ---
-- Single-Colour Offset Printing (635 x 914 mm)
-- Multi-Colour Offset Printing (510 x 720 mm)
-- Multi-Colour Digital Printing (330 x 914 mm)
-- Thermal Lamination, Spot UV, Drip-Off Coating & Foiling
-- Center Pinning & Side Pinning
-- Perfect Binding (Softcover/Paperback Binding)
-- Hard-Case Binding
-- Wire-o Binding
-- Calendar Rimming
-- Section Sewing
-- Cutting, Die Punching, Creasing, Folding & Composing
+- Printing
+  - Single-Colour Offset (635 x 914 mm)
+  - Multi-Colour Offset (510 x 720 mm)
+  - Multi-Colour Digital (330 x 914 mm)
+- Finishing
+  - Thermal Lamination
+  - Spot UV, Drip-Off Coating & Foiling
+  - Die Punching & Pasting
+  - Creasing & Micro-Perforation
+- Binding
+  - Folding & Composing
+  - Section Sewing
+  - Center/Side Pinning
+  - Perfect Binding (Softcover/Paperback Binding)
+  - Hard-Case Binding
+  - Wire-o Binding
+  - Calendar Rimming
+
+## Products we make
+---
+- Books
+  - Reading Book
+  - Prospectus
+  - Coffee Table Book
+  - Children's Workbook
+  - Notebook
+- Business Stationery
+  - Visiting Card
+  - Letterhead
+  - Envelope
+  - Notepad
+  - Bill Book
+- Promotional Materials
+  - Brochures & Catalogues
+  - Flyer/Leaflet
+  - Standee
+  - Poster/Dangler
+  - Paper Bag
+- Dated Products
+  - Diary
+  - Wall Calendar
+  - Table Calendar
+  
