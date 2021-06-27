@@ -5,8 +5,6 @@ tagline: Print shop for books, brochures and more..
 author: Sivarajan Vedhachalam
 date: 2021-06-25 10:42:00 +0530
 tag: [offset, digital, binding]
-image:
-  src: /assets/images/img2.jpg
 ---
 
 # An Offset & Digital Printing Press in Chennai
