@@ -5,6 +5,6 @@ categories: [Products]
 tags: [visiting card]     # TAG names should always be lowercase
 comments: false
 image:
-  src: /assets/images/visiting-card.jpg
+  src: /assets/images/visiting-card-main.jpg
 ---
 # Standard Visiting Card
