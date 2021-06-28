@@ -9,7 +9,7 @@ image:
 ---
 ## Standard Visiting Card
 ---
-![Card View](/assets/images/visiting-card-main.jpg){: width="240" .right}
+![Card View](/assets/images/visiting-card-main.jpg){: width="240" .float-lg-right}
 
 **Specification**
 - Size: 89 x 51 mm
@@ -25,7 +25,7 @@ image:
 
 ## Premium Visiting Card
 ---
-![Card View](/assets/images/visiting-card-main.jpg){: width="240" .right}
+![Card View](/assets/images/visiting-card-main.jpg){: width="240" .float-lg-right}
 
 **Specification**
 - Size: 91 x 55 mm
