@@ -25,7 +25,7 @@ image:
 
 ## Premium Visiting Card
 ---
-![Card View](/assets/images/visiting-card-main.jpg){: width="240"}
+![Card View](/assets/images/visiting-card-main.jpg){: width="240" .right}
 
 **Specification**
 - Size: 91 x 55 mm
