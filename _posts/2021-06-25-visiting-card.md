@@ -16,6 +16,7 @@ image:
 - Single Side/Both Side
 
 **Pricing**
+
 | Print Sides      | 100 Nos    | 200 Nos    | 500 Nos    | 1000 Nos   |
 |:-----------------|-----------:|-----------:|-----------:|-----------:|
 | Single Side      | Rs. 100    | Rs. 200    | Rs. 500    | Rs. 1000   |
@@ -31,6 +32,7 @@ image:
 - Thermal Gloss/Matt Lamination
 
 **Pricing**
+
 | Print Sides      | 100 Nos    | 200 Nos    | 500 Nos    | 1000 Nos   |
 |:-----------------|-----------:|-----------:|-----------:|-----------:|
 | Single Side      | Rs. 300    | Rs. 600    | Rs. 1500   | Rs. 3000   |
