@@ -10,6 +10,7 @@ image:
 ## Standard Visiting Card
 ---
 ![Card View](/assets/images/visiting-card-main.jpg){: width="240" .right}
+
 **Specification**
 - Size: 89 x 51 mm
 - 300 GSM Art Board
@@ -25,6 +26,7 @@ image:
 ## Premium Visiting Card
 ---
 ![Card View](/assets/images/visiting-card-main.jpg){: width="240" .right}
+
 **Specification**
 - Size: 91 x 55 mm
 - 300 GSM Art Board
@@ -35,5 +37,5 @@ image:
 
 | Print Sides      | 100 Nos    | 200 Nos    | 500 Nos    | 1000 Nos   |
 |:-----------------|-----------:|-----------:|-----------:|-----------:|
-| Single Side      | Rs. 300    | Rs. 600    | Rs. 1500   | Rs. 3000   |
-| Both side        | Rs. 600    | Rs. 1200   | Rs. 3000   | Rs. 6000   |
+| Single Side      | Rs. 100    | Rs. 200    | Rs. 500    | Rs. 1000   |
+| Both side        | Rs. 200    | Rs. 400    | Rs. 1000   | Rs. 2000   |
