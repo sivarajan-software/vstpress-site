@@ -36,8 +36,7 @@ Is your design file is ready? If yes, please send it to us <team@vstpress.com>. 
 
 | Particulars        | Options                                                                                                                     |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Size               | Standard size is 3.5" x 2" (89 x 51 mm). *It fits in the wallet*.\
-But literally any reasonable shapes and size can be printed |
+| Size               | Standard size is 3.5" x 2" (89 x 51 mm). *It fits in the wallet*.\ But literally any reasonable shapes and size can be printed |
 | Paper Weight (GSM) | 250, 300, 350                                                                                                               |
 | Paper Stock        | Art, Matt Art, Ivory, Needle Point, Linen White                                                                             |
 | Lamination         | None, Gloss, Matt, Velvet                                                                                                   |
