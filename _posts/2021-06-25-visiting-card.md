@@ -33,6 +33,7 @@ image:
 Is your design file is ready? If yes, please send it to us <team@vstpress.com>. We will take it up from there. If you are looking for a new design, please send us your business card details (Business Name, Logo, Individual Name, Job Title, Phone Number, Address, Email-Id and Website). Our design team will be glad to assist you. 
 
 ## Customization
+
 | Particulars        | Options                                                                                                       |
 |--------------------|---------------------------------------------------------------------------------------------------------------|
 | Size               | 3.5" x 2" (89 x 51 mm). *It fits in the wallet*. But literally any reasonable shapes and size can be printed  |
