@@ -23,7 +23,7 @@ image:
 | Both Side   | Rs. 240 | Rs. 380 | Rs. 520 | Rs. 660 | Rs. 800 | Rs. 1500 | Rs. 2200 | Rs. 2900 | Rs. 3600 |
 
 ### Design Guidelines
-- Canvas size should be 93 x 55 mm (2 mm bleed on all edges).__ 
+- Canvas size should be 93 x 55 mm (2 mm bleed on all edges).\
   It will be trimmed off to the final size of 89 x 51 mm. 
 - Contents should be within the safe margin (5 mm from the cutting line).
 - Images must be in 300 dpi for best result.
@@ -36,7 +36,8 @@ Is your design file is ready? If yes, please send it to us <team@vstpress.com>. 
 
 | Particulars        | Options                                                                                                                     |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Size               | Standard size is 3.5" x 2" (89 x 51 mm). It fits in the wallet. But literally any reasonable shapes and size can be printed |
+| Size               | Standard size is 3.5" x 2" (89 x 51 mm). *It fits in the wallet*.\
+But literally any reasonable shapes and size can be printed |
 | Paper Weight (GSM) | 250, 300, 350                                                                                                               |
 | Paper Stock        | Art, Matt Art, Ivory, Needle Point, Linen White                                                                             |
 | Lamination         | None, Gloss, Matt, Velvet                                                                                                   |
