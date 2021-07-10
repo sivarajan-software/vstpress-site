@@ -10,12 +10,12 @@ image:
 ## Standard Visiting Card
 ---
 
-**Specification**
+### Specification
 - Size: 89 x 51 mm
 - 300 GSM Art Board
 - Multi Colour Printing
 
-**Pricing**
+### Pricing
 
 | Print Sides | 100 Nos | 200 Nos | 300 Nos | 400 Nos | 500 Nos | 1000 Nos | 1500 Nos | 2000 Nos | 2500 Nos |
 |-------------|--------:|--------:|--------:|--------:|--------:|---------:|---------:|---------:|---------:|
@@ -35,8 +35,18 @@ Is your design file is ready? If yes, please send it to us <team@vstpress.com>. 
 
 | Particulars        | Options                                                                                                                     |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Size               | Standard size is 3.5" x 2" (89 x 51 mm). *It fits in the wallet*.<br>But literally any reasonable shapes and size can be printed |
+| Size               | Standard size is 3.5" x 2" (89 x 51 mm). *It fits in the wallet*.<br>But literally any reasonable shapes and size can be printed. |
 | Paper Weight (GSM) | 250, 300, 350                                                                                                               |
 | Paper Stock        | Art, Matt Art, Ivory, Needle Point, Linen White                                                                             |
 | Lamination         | None, Gloss, Matt, Velvet                                                                                                   |
 | Finishing          | Rounded Corner Cutting, Spot UV, Gold/Silver Foiling, Embossing                                                             |
+
+## Enquiry
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form> 
