@@ -44,7 +44,7 @@ Is your design file is ready? If yes, please send it to us <team@vstpress.com>. 
 ## Enquiry
 For estimate and enquiries related to printing and designing visiting cards, please fill out the below form. We will get back to you within a day. For faster response use the chat option in the bottom right corner or call us on 9941545269
 
-<form action="/action_page.php">
+<form action="https://us-central1-vstpress-site.cloudfunctions.net/sendMail" method="POST">
   <label for="fname">Name:</label><br>
   <input type="text" id="fname" name="name"><br>
   <label for="phone">Phone:</label><br>
