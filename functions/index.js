@@ -15,15 +15,7 @@ const REFRESH_TOKEN = "1//04EnawiIjkV6bCgYIARAAGAQSNwF-L9IrWD5m8r4Jwts-AtrjKOhIf
 const oAuth2Client = new google.auth.OAuth2(CLIENT_ID, CLIENT_SECRET, REDIRECT_URI);
 oAuth2Client.setCredentials({refresh_token: REFRESH_TOKEN});
 
-// // Create and Deploy Your First Cloud Functions
-// // https://firebase.google.com/docs/functions/write-firebase-functions
-//
-// exports.helloWorld = functions.https.onRequest((request, response) => {
-//   functions.logger.info("Hello logs!", {structuredData: true});
-//   response.send("Hello from Firebase!");
-// });
-
-async function sendNodemailer() {
+async function sendNodemailer(input) {
   try {
     const accessToken = await oAuth2Client.getAccessToken();
     const transport = nodemailer.createTransport({
@@ -38,11 +30,17 @@ async function sendNodemailer() {
       },
     });
 
+    const mailBody =
+    "Name: " + input.name + "\n"+
+    "Phone: " + input.phone + "\n" +
+    "Email: " + input.email + "\n" +
+    "Message: " + input.message;
+
     const mailOptions = {
       from: "sivarajan.software@gmail.com",
       to: "sivarajan.software@gmail.com",
       subject: "hello from gmail using firebase",
-      text: "Hello world",
+      text: mailBody,
     };
 
     const result = await transport.sendMail(mailOptions);
@@ -51,20 +49,20 @@ async function sendNodemailer() {
     return error;
   }
 }
+
 exports.sendMail = functions.https.onRequest((req, res) => {
-  const name = "Name: "+ req.body.name;
-  const phone = "Phone: " + req.body.phone;
-  const email = "Email: "+ req.body.email;
-  const message = "Message: "+req.body.message;
+  const input = {
+    "name": req.body.name,
+    "phone": req.body.phone,
+    "email": req.body.email,
+    "message": req.body.message,
+  };
 
-  const inputData = [name, phone, email, message].join("\n");
-  console.log("Input: " + inputData);
-
-  sendNodemailer().then((result) => {
+  sendNodemailer(input).then(() => {
     console.log("Email Sent");
-    res.status(200).send("Mail Sent");
-  }).error((err) => {
-    console.log("Error Occurred");
-    res.status(500).send("Error Occurred");
+    res.redirect("/enquiry-submission");
+  }).catch((err) => {
+    console.log("Error Occurred: " + err);
+    res.status(500).send("Error Occurred: " + err);
   });
 });
