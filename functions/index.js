@@ -52,6 +52,14 @@ async function sendNodemailer() {
   }
 }
 exports.sendMail = functions.https.onRequest((req, res) => {
+  const name = "Name: "+ req.body.name;
+  const phone = "Phone: " + req.body.phone;
+  const email = "Email: "+ req.body.email;
+  const message = "Message: "+req.body.message;
+
+  const inputData = [name, phone, email, message].join("\n");
+  console.log("Input: " + inputData);
+
   sendNodemailer().then((result) => {
     console.log("Email Sent");
     res.status(200).send("Mail Sent");
