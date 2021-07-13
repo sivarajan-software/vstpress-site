@@ -38,15 +38,20 @@ Is your design file is ready? If yes, please send it to us <team@vstpress.com>. 
 | Size               | Standard size is 3.5" x 2" (89 x 51 mm). *It fits in the wallet*.<br>But literally any reasonable shapes and size can be printed. |
 | Paper Weight (GSM) | 250, 300, 350                                                                                                               |
 | Paper Stock        | Art, Matt Art, Ivory, Needle Point, Linen White                                                                             |
-| Lamination         | None, Gloss, Matt, Velvet                                                                                                   |
+| Lamination         | Gloss, Matt, Velvet                                                                                                   |
 | Finishing          | Rounded Corner Cutting, Spot UV, Gold/Silver Foiling, Embossing                                                             |
 
 ## Enquiry
+For estimate and enquiries related to printing and designing visiting cards, please fill out the below form. We will get back to you within a day. For faster response use the chat option in the bottom right corner or call us on 9941545269
 
 <form action="/action_page.php">
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="John"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <label for="fname">Name:</label><br>
+  <input type="text" id="fname" name="name"><br>
+  <label for="phone">Phone:</label><br>
+  <input type="tel" id="phone" name="phone"><br>
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email"><br>
+  <label for="lname">Message:</label><br>
+  <textarea name="message" cols="40" rows="5"></textarea><br><br>
   <input type="submit" value="Submit">
 </form> 
